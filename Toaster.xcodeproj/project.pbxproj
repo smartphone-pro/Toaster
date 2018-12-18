@@ -226,7 +226,7 @@
 				TargetAttributes = {
 					03A75E2A1BCF2066002E46C4 = {
 						CreatedOnToolsVersion = 7.0.1;
-						LastSwiftMigration = 0900;
+						LastSwiftMigration = 1010;
 					};
 					03A75E4E1BCF20D4002E46C4 = {
 						CreatedOnToolsVersion = 7.0.1;
@@ -234,6 +234,7 @@
 					};
 					C06FC9D01F95A8CC00782082 = {
 						CreatedOnToolsVersion = 9.0;
+						LastSwiftMigration = 1010;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -466,7 +467,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Debug;
 		};
@@ -487,7 +488,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Release;
 		};
@@ -535,7 +536,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.loisdiqual.ToasterTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -557,7 +558,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.loisdiqual.ToasterTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
